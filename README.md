@@ -9,7 +9,7 @@ npm i node-swiftjs
 
 ### Create an app
 ```
-const swiftJs = require('./');
+const swiftJs = require('node-swiftjs');
 var app = swiftJs();
 ```
 
