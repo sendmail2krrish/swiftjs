@@ -4,7 +4,7 @@
 
 ### Install
 ```
-npm install swiftjs
+npm i node-swiftjs
 ```
 
 ### Create an app
