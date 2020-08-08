@@ -1,5 +1,5 @@
 {
-  "name": "swiftjs",
+  "name": "node-swiftjs",
   "version": "1.0.0",
   "description": "A backend framework",
   "main": "index.js",
