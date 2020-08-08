@@ -1,0 +1,18 @@
+{
+  "name": "swiftjs",
+  "version": "1.0.0",
+  "description": "A backend framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishna Paul <sendmail2krrish@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sendmail2krrish/swiftjs.git"
+  }
+}
