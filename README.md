@@ -69,5 +69,5 @@ app.get('/orders', (req, res, next) => {
 });
 ```
 
-Thnaks, Happy coding :)<br />
+Thanks, Happy coding :)<br />
 Krishna Paul <sendmail2krrish@gmail.com>
