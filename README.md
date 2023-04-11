@@ -1,4 +1,4 @@
-# Swift JS (backend Node.js Framawork)
+# Swift JS (backend Node.js framework)
 
 ## Examples
 
