@@ -68,6 +68,3 @@ app.get('/orders', (req, res, next) => {
   });
 });
 ```
-
-Thanks, Happy coding :)<br />
-Krishna Paul <sendmail2krrish@gmail.com>
